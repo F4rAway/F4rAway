@@ -1,0 +1,4 @@
+a[href^="http://"]{
+	border-bottom: 1px solid;
+	color:red;
+}
